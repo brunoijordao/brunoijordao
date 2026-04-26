@@ -1,16 +1,13 @@
-### <div align="center">Olá, eu sou o Bruno Jordão! 👋</div>  
+## <div align="center">Olá, eu sou o Bruno Jordão! 👋</div>  
   
 
-- 💼 Atualmente trabalho como **Auxiliar de TI Junior** na **Rommac Distribuidora LTDA**.  
+#### - 💼 Atualmente trabalho como **Auxiliar de TI Junior** na **Rommac Distribuidora LTDA**.  
   
 
-- 🚀 No dia a dia, lido com suporte, infraestrutura e integrações.  
+#### - 🚀 No dia a dia, lido com suporte, infraestrutura e integrações.  
   
 
-- 🎯 Concentrando meus estudos e projetos no desenvolvimento Back-end com Java.  
-  
-
-<br/>  
+#### - 🎯 Concentrando meus estudos e projetos no desenvolvimento Back-end com Java.  
 
 
 ## Stacks  
